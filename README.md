@@ -26,7 +26,7 @@ npm or yarn​
 
 Installation
 Clone the Repository:
-git clone https://github.com/namanswamy/ShopEase.git
+git clone (https://github.com/yashsarin/E-COMMERCE-WEBSITE.git)
 cd ShopEase
 
 **Install Dependencies:**
