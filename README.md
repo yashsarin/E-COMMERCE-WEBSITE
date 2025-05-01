@@ -43,7 +43,7 @@ npm run dev
 Or
 using yarn:
 yarn dev
-**The application will be accessible at http://localhost:3000.**
+**The application will be accessible at (http://localhost:5173/).**
 
 **Build for Production**
 To build the application for production:
